@@ -1,0 +1,7 @@
+Flask
+requests
+pillow
+fastapi
+uvicorn
+transformers
+torch
